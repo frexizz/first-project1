@@ -7,8 +7,8 @@
 ~~Делать~~
 ```html
 Не
-``` 
-1. Люблю
+```
+Люблю
 * ДЗ
 - И
 [Сдавать](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
